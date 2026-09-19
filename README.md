@@ -80,7 +80,7 @@
 ### 💭 Favorite Quote
 
 <p align="center">
-  <i>"The good thing about hard/dark times is, it will pass. So all you have to do is be a little patient and keep working on yourself, like you always do!"</i>
+  <i>"The good thing about hard or dark times is that they pass. So all you have to do is have a little patience and keep working on yourself, as you always do!"</i>
 </p>
 
 ---
