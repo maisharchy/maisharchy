@@ -77,10 +77,10 @@
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=maisharchy&bg_color=00000000&color=a371f7&line=a371f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
+### 💭 Favorite Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <i>"The good thing about hard/dark times is, it will pass. So all you have to do is be a little patient and keep working on yourself, like you always do!"</i>
 </p>
 
 ---
